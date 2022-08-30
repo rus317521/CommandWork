@@ -59,7 +59,7 @@ public class Main {
                     productsCount[number] = 0;
                 }
             } catch (NumberFormatException e) {
-                System.out.println("Данные введены некорректно. Необходимо ввести два целых положительных числа!");
+                System.out.println("Данные введены некорректно. Необходимо ввести два целых числа!");
                 continue;
             }
 
